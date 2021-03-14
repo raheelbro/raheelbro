@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raheelbro
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning cpp
 
 
 <!---
